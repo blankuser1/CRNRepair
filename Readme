@@ -1,0 +1,5 @@
+This repository is for the submission to GI @ICSE '21
+
+It contains the data for the two subjects in the study and the resulting repairs. 
+The sbml files are the output of the repair and the text files are the human readable version as well as the logged changes to the orignal CRN.
+We include files for both for the simulated annealing and random trails.
